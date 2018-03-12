@@ -3,7 +3,9 @@
 .idea/
 Lib/
 huiweibisaitest/venv/Scripts/
-
+tcl/
 # нд╪Ч
 *.h
 *.tcl
+*.enc
+*.msg
