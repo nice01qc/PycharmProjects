@@ -1,6 +1,9 @@
 # 需要忽略的文件或者文件夹
 # 目录
 .idea/
-
+Lib/
+huiweibisaitest/venv/Scripts/
 
 # 文件
+*.h
+*.tcl
